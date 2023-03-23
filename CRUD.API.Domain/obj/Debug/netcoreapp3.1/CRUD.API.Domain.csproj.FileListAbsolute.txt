@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.Domain\bin\Debug\netcoreapp3.1\CRUD.API.Domain.deps.json
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.Domain\bin\Debug\netcoreapp3.1\CRUD.API.Domain.dll
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.Domain\bin\Debug\netcoreapp3.1\CRUD.API.Domain.pdb
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.dll
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.pdb

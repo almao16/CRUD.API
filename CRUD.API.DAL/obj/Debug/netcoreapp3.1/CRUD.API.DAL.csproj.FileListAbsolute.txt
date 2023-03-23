@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.DAL\bin\Debug\netcoreapp3.1\CRUD.API.DAL.deps.json
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.DAL\bin\Debug\netcoreapp3.1\CRUD.API.DAL.dll
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.DAL\bin\Debug\netcoreapp3.1\CRUD.API.DAL.pdb
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.DAL\obj\Debug\netcoreapp3.1\CRUD.API.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.DAL\obj\Debug\netcoreapp3.1\CRUD.API.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.DAL\obj\Debug\netcoreapp3.1\CRUD.API.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.DAL\obj\Debug\netcoreapp3.1\CRUD.API.DAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.DAL\obj\Debug\netcoreapp3.1\CRUD.API.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.DAL\obj\Debug\netcoreapp3.1\CRUD.API.DAL.dll
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.DAL\obj\Debug\netcoreapp3.1\CRUD.API.DAL.pdb

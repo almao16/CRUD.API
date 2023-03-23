@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\bin\Debug\netcoreapp3.1\CRUD.API.BL.deps.json
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\bin\Debug\netcoreapp3.1\CRUD.API.BL.dll
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\bin\Debug\netcoreapp3.1\CRUD.API.BL.pdb
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\bin\Debug\netcoreapp3.1\CRUD.API.DAL.dll
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\bin\Debug\netcoreapp3.1\CRUD.API.Domain.dll
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\bin\Debug\netcoreapp3.1\CRUD.API.DAL.pdb
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\bin\Debug\netcoreapp3.1\CRUD.API.Domain.pdb
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\obj\Debug\netcoreapp3.1\CRUD.API.BL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\obj\Debug\netcoreapp3.1\CRUD.API.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\obj\Debug\netcoreapp3.1\CRUD.API.BL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\obj\Debug\netcoreapp3.1\CRUD.API.BL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\obj\Debug\netcoreapp3.1\CRUD.API.BL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\obj\Debug\netcoreapp3.1\CRUD.API.BL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\obj\Debug\netcoreapp3.1\CRUD.API.BL.dll
+C:\Users\Administrator\Desktop\Proyectos MPFoft05\C#\CRUD.API\CRUD.API.BL\obj\Debug\netcoreapp3.1\CRUD.API.BL.pdb
