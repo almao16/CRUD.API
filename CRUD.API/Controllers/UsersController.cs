@@ -1,5 +1,4 @@
-﻿
-using Autofac;
+﻿using Autofac;
 using AutoMapper;
 using CRUD.API.BL.Container;
 using CRUD.API.BL.Users;
@@ -29,6 +28,7 @@ namespace CRUD.API.Controllers
 
     [Route("[controller]")]
     [ApiController]
+    [Authorize]
     public class UsersController : Controller
     {
         private readonly IConfiguration Configuration;

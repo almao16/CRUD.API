@@ -23,6 +23,7 @@ namespace CRUD.API.Controllers
 {
     [Route("[controller]")]
     [ApiController]
+    [Authorize]
     public class ClientsController : Controller
     {
         private readonly IConfiguration Configuration;

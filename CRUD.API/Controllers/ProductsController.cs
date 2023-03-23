@@ -24,6 +24,7 @@ namespace CRUD.API.Controllers
 
     [Route("[controller]")]
     [ApiController]
+    [Authorize]
     public class ProductsController : Controller
     {
         private readonly IConfiguration Configuration;
@@ -189,7 +190,7 @@ namespace CRUD.API.Controllers
 
                 using (var scope = BLContainer._container.BeginLifetimeScope())
                 {
-                    ProductEntity _producEntity = await scope.Resolve<IBLProducts>().GetAsync(request.IdProduc);
+                    ProductEntity _producEntity = await scope.Resolve<IBLProducts>().GetAsync(request.IdProduct);
                     if (_producEntity == null)
                     {
                         throw new Exception(Functions.FormatError(Constants.MESSAGE_ERROR_NOT_FOUND, Enums.Entity.USUARIO.ToString()));

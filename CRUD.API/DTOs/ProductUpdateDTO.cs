@@ -5,7 +5,7 @@ namespace CRUD.API.DTOs
     public class ProductUpdateDTO
     {
         [Required]
-        public int IdProduc { get; set; }
+        public int IdProduct { get; set; }
 
         [Required]
         public string Name { get; set; }
