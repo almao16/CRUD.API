@@ -388,8 +388,7 @@ namespace CRUD.API.Controllers
 
             ClaimsIdentity claimsIdentity = new ClaimsIdentity();
             claimsIdentity.AddClaim(new Claim("idUser", userEntity.IdUser.ToString(), ClaimValueTypes.Integer32));
-            claimsIdentity.AddClaim(new Claim("names", userEntity.Names ?? string.Empty));
-            claimsIdentity.AddClaim(new Claim("lastnames", userEntity.LastNames ?? string.Empty));
+            claimsIdentity.AddClaim(new Claim("fullNmae", userEntity.FullName ?? string.Empty));
             claimsIdentity.AddClaim(new Claim("email", userEntity.Email ?? string.Empty));
             claimsIdentity.AddClaim(new Claim("role", userEntity.Role ?? string.Empty));
             claimsIdentity.AddClaim(new Claim("active", userEntity.Active.ToString(), ClaimValueTypes.Boolean));

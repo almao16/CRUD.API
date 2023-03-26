@@ -25,6 +25,14 @@ namespace CRUD.API.BL.Utils
         public static string CLIENTS_GET_LIST = "spClientsGetList";
         public static string CLIENTS_UPDATE = "spClientsUpdate";
 
+
+        // INVOICE
+        public static string INVOICES_CREATE = "spInvocesCreate";
+        public static string INVOICES_DELETE = "spInvocesDelete";
+        public static string INVOICES_GET = "spInvocesGet";
+        public static string INVOICES_GET_LIST = "spInvocesGetList";
+        public static string INVOICES_UPDATE = "spInvocesUpdate";
+
         // PRODUCT
         public static string PRODUCTS_CREATE = "spProductsCreate";
         public static string PRODUCTS_DELETE = "spProductsDelete";

@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace CRUD.API.DTOs
 {
@@ -9,9 +10,13 @@ namespace CRUD.API.DTOs
         public int IdUser { get; set; }
 
         [Required]
-        public string Names { get; set; }
+        public string FullName { get; set; }
         [Required]
-        public string LastNames { get; set; }
+        public DateTime StartDate { get; set; }
+        [Required]
+        public float Salary { get; set; }
+        [Required]
+        public string Status { get; set; }
         [Required]
         public string Role { get; set; }
     }

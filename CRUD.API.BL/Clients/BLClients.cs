@@ -20,11 +20,13 @@ namespace CRUD.API.BL.Clients
             {
                 object parammeters = new
                 {
-                    clients.DniClient,
-                    clients.Names,
-                    clients.LastNames,
-                    clients.Email,
-                    
+                    clients.Address,
+                    clients.Company,
+                    clients.CompanyEmail,
+                    clients.Country,
+                    clients.Contact,
+                    clients.Name
+
                 };
 
                 using (var scope = DALContainer._container.BeginLifetimeScope())
@@ -115,9 +117,12 @@ namespace CRUD.API.BL.Clients
                 object parammeters = new
                 {
                     IdClient = client.IdClient,
-                    client.Names,
-                   client.LastNames,
-                    client.Email
+                    client.Address,
+                    client.Company,
+                    client.CompanyEmail,
+                    client.Country,
+                    client.Contact,
+                    client.Name
                 };
 
                 using (var scope = DALContainer._container.BeginLifetimeScope())

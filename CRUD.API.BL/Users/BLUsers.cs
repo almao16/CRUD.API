@@ -21,11 +21,13 @@ namespace CRUD.API.BL.Users
             {
                 object parammeters = new
                 {
-                    user.Names,
-                    user.LastNames,
+                    user.FullName,
                     user.Email,
-                    user.Role,
-                    password
+                    user.StartDate,
+                    user.Salary,
+                    user.Status,
+                    password,
+                    user.Role
                 };
 
                 using (var scope = DALContainer._container.BeginLifetimeScope())
@@ -116,8 +118,11 @@ namespace CRUD.API.BL.Users
                 object parammeters = new
                 {
                     IdUser = user.IdUser,
-                    user.Names,
-                    user.LastNames,
+                    user.FullName,
+                    user.Email,
+                    user.StartDate,
+                    user.Salary,
+                    user.Status,
                     user.Role
                 };
 

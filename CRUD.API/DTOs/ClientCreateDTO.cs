@@ -5,12 +5,16 @@ namespace CRUD.API.DTOs
     public class ClientCreateDTO
     {
         [Required]
-        public string DniClient { get; set; }
+        public string Address { get; set; }
         [Required]
-        public string Names { get; set; }
+        public string Company { get; set; }
         [Required]
-        public string LastNames { get; set; }
+        public string CompanyEmail { get; set; }
         [Required]
-        public string Email { get; set; }
+        public string Country { get; set; }
+        [Required]
+        public string Contact { get; set; }
+        [Required]
+        public string Name { get; set; }
     }
 }
